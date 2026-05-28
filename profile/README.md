@@ -22,6 +22,16 @@ All three paths converge on the same atomic, signed, addressable nanopub on the 
 
 ---
 
+## FORRT replication chains — replication as citable data
+
+Science Live's flagship application is **publishing replication studies as citable chains**, following the [FORRT framework](https://forrt.org) ([Röseler et al. 2025](https://doi.org/10.5281/zenodo.16990114)). Each paper-rooted replication produces a six-step chain — **Quote-with-comment → AIDA → FORRT Claim → Replication Study → Replication Outcome → CiTO Citation** — where every step is a separately signed nanopublication with its own URI. An apex **Research Synthesis** nanopub wraps the chain into a single citable target.
+
+The result: a future paper can cite a *specific Outcome*, a *specific Study design*, or the *specific Quote* that anchored the chain — not just the replication paper as a whole. Replication becomes machine-actionable data, and the trust gradient (LLM-extracted → Reader-annotated → Author-validated → FORRT-replicated) becomes explicit and click-resolvable.
+
+The [**`forrt-replication-template`**](https://github.com/ScienceLiveHub/forrt-replication-template) is a self-contained GitHub template that turns this pattern into a working scaffold: clone the template, drop in a paper PDF, and get a Zenodo-archived release plus the full signed nanopublication chain on the open network. Domain-portable via a `DOMAIN.md` swap — currently shipped with a biodiversity + Earth-observation default flavour, adaptable to other computational-reproducibility-based fields.
+
+---
+
 ## Core repositories
 
 | Repo | Purpose |

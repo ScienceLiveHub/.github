@@ -38,11 +38,6 @@ The [**`forrt-replication-template`**](https://github.com/ScienceLiveHub/forrt-r
 |---|---|
 | [**science-live-platform**](https://github.com/ScienceLiveHub/science-live-platform) | Platform monorepo — web app, API, Zotero plugin, viewer/embed components |
 | [**forrt-replication-template**](https://github.com/ScienceLiveHub/forrt-replication-template) | Self-contained GitHub template for paper-rooted FORRT replication studies — paper PDF in, Zenodo-archived release + signed nanopublication chain out |
-| [**nanopub-view**](https://github.com/ScienceLiveHub/nanopub-view) | JavaScript/React library for rendering nanopublications |
-| [**nanopub-create**](https://github.com/ScienceLiveHub/nanopub-create) | JavaScript/React library for creating nanopublications via forms |
-| [**nanopub-notebooks**](https://github.com/ScienceLiveHub/nanopub-notebooks) | Jupyter notebooks for programmatic nanopublication creation (Python) |
-| [**science-live-pipeline**](https://github.com/ScienceLiveHub/science-live-pipeline) | Backend pipeline for content extraction and nanopublication generation |
-| [**ScienceLiveClaims**](https://github.com/ScienceLiveHub/ScienceLiveClaims) · [**templates4sciencelive**](https://github.com/ScienceLiveHub/templates4sciencelive) | Community-discussed nanopublication templates (Quote-with-comment, AIDA, FORRT Claim, Replication Study, Replication Outcome, CiTO Citation, Research Synthesis, …) |
 | [**sciencelivehub.github.io**](https://github.com/ScienceLiveHub/sciencelivehub.github.io) | Source for the [sciencelive4all.org](https://sciencelive4all.org) marketing site |
 | [**citex2026-stackable-citations**](https://github.com/ScienceLiveHub/citex2026-stackable-citations) | CiTeX 2026 workshop talk — *"Stackable Citation Knowledge: Building on Nanopublications for Climate and Biodiversity Research"* by Anne Fouilloux and Jean Iaquinta. Slidev deck, recorded demo, references. ([live deck](https://sciencelive4all.org/citex2026-stackable-citations/) · [demo video DOI](https://doi.org/10.5281/zenodo.20419561)) |
 
